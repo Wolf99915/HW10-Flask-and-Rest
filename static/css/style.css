@@ -1,0 +1,12 @@
+.plants-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.plants-container .card{
+    width: 18%;
+}
+
+plant-container .card{
+    width: 50%;
+}
